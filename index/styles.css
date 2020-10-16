@@ -1,0 +1,15 @@
+ h1{
+     color: black;
+     font-size: 30px;
+   }
+p {
+    color: black;
+    ;font-size: 100px;
+  }
+.txt {
+    color:black;
+     }
+ul > li {
+         color:blue;
+         font-size: 25px;
+        }
